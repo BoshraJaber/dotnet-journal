@@ -1,0 +1,8 @@
+# Getting started with dotnet CLI:
+
+* create a C# application:
+`dotnet new console --output sample1`
+
+* run a C# application:
+`dotnet run --project sample1`
+
